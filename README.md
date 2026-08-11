@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# rails-app
+Exercise1 - Set up rails app + PostgreSQL + Scaffolds + Git
+>>>>>>> 43c8dcc3f1017c0133958077992d2527af25e07d
